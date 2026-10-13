@@ -1,0 +1,13 @@
+{
+  "name": "bustracker",
+  "version": "1.0.0",
+  "description": "BusTracker full-stack bus search and capacity management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
